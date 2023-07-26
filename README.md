@@ -1,4 +1,4 @@
-### Hi there 👋
+<a href="https://app.daily.dev/JM8"><img src="https://api.daily.dev/devcards/9e10f173f536486bbd53c527aa400016.png?r=dar" width="400" alt="Jean-Michel GRONDIN's Dev Card"/></a>
 
 <!--
 **Jean-MichelGRONDIN/Jean-MichelGRONDIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
